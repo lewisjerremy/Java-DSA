@@ -1,3 +1,5 @@
+package Stack;
+
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 import java.util.EmptyStackException;
@@ -20,7 +22,7 @@ public class Stack {
     }
 
     /**
-     * Adds an integer to the top of the stacl
+     * Adds an integer to the top of the stack
      * 
      * @params integer: to add to top of stack
      */

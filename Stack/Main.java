@@ -1,3 +1,5 @@
+package Stack;
+
 import java.io.IOException;
 import java.util.EmptyStackException;
 
